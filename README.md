@@ -57,7 +57,7 @@ Ce projet, via un réseau de neurones, avec l’utilisation de données sur la p
 ```
 
 #### Execution
-*Execute le programme en utilisant les données précedemment générées :*
+*Execute le programme en utilisant les données précédemment générées :*
 
 ```
 /AnaPost/code$ python3 main.py
