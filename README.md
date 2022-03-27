@@ -44,7 +44,7 @@ Ce projet, via un réseau de neurones, avec l’utilisation de données sur la p
 ```
 /AnaPost/toolsDB$ python3 uiprmdFormatAndSplit.py [split_rate]
 ```
-**Exemple,** vous souhaiter obtenir une répartition des données de 85% d'entraînement et donc 15% de validation :
+**Exemple,** vous souhaitez obtenir une répartition des données de 85% d'entraînement et donc 15% de validation :
 ```
 /AnaPost/toolsDB$ python3 uiprmdFormatAndSplit.py 85
 ```
